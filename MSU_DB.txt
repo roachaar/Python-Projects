@@ -1,0 +1,1 @@
+{'wozsteve': ['Wozniak, Steve', '345 University Dr., East Lansing, MI 48823', '408-293-2468', '1 Infinite Loop, Cupertino, CA 95015', '', 'wozsteve@msu.edu', 'Title: Student', 'Status: Sophomore', 'Major: Computer Engineering']}
